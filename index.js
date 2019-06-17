@@ -5,10 +5,10 @@
      var body = document.getElementsByTagName("body")[0];
      startBtn.innerHTML = "start";
      startBtn.setAttribute("id","start");
-     startBtn.setAttribute("style","display:block; margin-top: 20px;margin-left:40px;line-height: 60px;font-size:20px;font-weight: bold;padding: 0 40px;background: salmon;border: none;")
+     startBtn.setAttribute("style","display:block; margin-top: 20px;margin-left:40px;line-height: 60px;font-size:20px;font-weight: bold;padding: 0 40px;background: #008CBA;border: none;")
      resetBtn.innerHTML = "reset";
      resetBtn.setAttribute("id","reset");
-     resetBtn.setAttribute("style","display:block; margin-top: 20px;margin-left:40px;line-height: 60px;font-size:20px;font-weight: bold;padding: 0 40px;background: salmon;border: none;")
+     resetBtn.setAttribute("style","display:block; margin-top: 20px;margin-left:40px;line-height: 60px;font-size:20px;font-weight: bold;padding: 0 40px;background: #f44336;border: none;")
     
      
      body.appendChild(startBtn);
